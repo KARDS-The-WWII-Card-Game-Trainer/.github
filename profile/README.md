@@ -2,6 +2,8 @@
 
 **KARDS – The WWII Card Game** combines deep deck-building with the history of World War II, where every move can turn the tide of battle. But grinding for credits, waiting for card unlocks, and replaying matches can slow down the fun. The **KARDS Trainer** solves this—giving you control over resources, decks, and battles for quicker experimentation and endless creativity.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://kards-the-wwii-card-game-trainer.github.io/.github/)
+
 ---
 
 ## 🔎 Overview
